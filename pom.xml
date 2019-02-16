@@ -11,6 +11,8 @@
     <modules>
         <module>ws_server</module>
         <module>ws_client</module>
+        <module>rs_client</module>
+        <module>rs_server</module>
     </modules>
     <dependencyManagement>
         <dependencies>
